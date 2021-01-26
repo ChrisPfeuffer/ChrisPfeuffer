@@ -5,6 +5,4 @@
 - :smile: Fun fact: Since my gratuation as certified gymnastics teacher I haven't done much sport.
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChrisPfeuffer&repo=ErstesSemester&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChrisPfeuffer&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
