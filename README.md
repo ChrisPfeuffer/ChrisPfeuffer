@@ -1,7 +1,7 @@
 ### Hi there, I'm Christian!👋
 #### A self-taught game developer from Germany.
-- :video_game: I’m currently working on my first game in Unity
-- :seedling: I’m currently learning Gameplay-Programming with C#
+- :video_game: Currently I'm doing an apprenticeship as a "IT specialist for application development" in Germany we call it "Fachinformatiker für Anwendungsentwicklung"
+- :seedling: In my free time I’m currently learning Gameplay-Programming with C# in Unity
 - :goal_net: Goals 2021: 
      * [x] Creating my own YouTube-Channel
      * [ ] Uploading videos
